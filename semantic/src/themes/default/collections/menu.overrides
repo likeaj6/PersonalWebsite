@@ -1,0 +1,13 @@
+/*******************************
+         Theme Overrides
+*******************************/
+
+@background: #DCD0C0;
+@subMenuActiveBackground: #DCD0C0;
+@secondaryBackground: #DCD0C0;
+
+@secondaryPointingHoverTextColor: #FFFFFF;
+
+@secondaryPointingActiveTextColor: #FFFFFF;
+
+@secondaryPointingActiveHoverTextColor: #FFFFFF;

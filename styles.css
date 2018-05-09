@@ -1,0 +1,65 @@
+#intro {
+    /*-webkit-mask: url('images/sprout.svg') center / contain no-repeat;*/
+    background: url('images/sprout.svg') fixed;
+    /*background: url('images/data.jpg') fixed;*/
+    background-color: #C0B283;
+    /*background-color: #ffeded;*/
+    background-position-x: center;
+    background-size: 100% 100%;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+}
+
+#header {
+    color: white;
+}
+
+#hidden {
+    background-color: #DCD0C0;
+
+}
+
+#text {
+    color: white;
+}
+
+#resumemodal {
+    margin: 0 auto;
+    left: 25%;
+    right: 25%;
+    top: 15%;
+}
+
+#background {
+    /*background-size: cover;*/
+    /*background-repeat: no-repeat;*/
+    /*position: absolute;*/
+    /*left: 50%;*/
+    /*right: 50%;*/
+}
+/*
+#menu {
+    height: 40%;
+    width: 100%;
+    color: white;
+}*/
+
+.menuText {
+    color: white;
+}
+
+#projects {
+    /*-webkit-transition: all .8s ease-in-out;
+	-moz-transition: all .8s ease-in-out;
+	-o-transition: all .8s ease-in-out;
+	transition: all .8s ease-in-out;*/
+}
+#reminder {
+    margin-bottom: 0px;
+}
+#button1 {
+    position: absolute;
+    top: 30%;
+    left: 25%;
+    color: blue;
+}
